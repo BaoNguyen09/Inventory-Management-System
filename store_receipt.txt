@@ -1,0 +1,18 @@
+1 Macbook 3000 3
+
+1 Macbook 3000 3
+
+2 Ipad 1500 3
+
+1 Macbook 3000 5
+
+2 Ipad 1500 7
+
+3 Airpod 250 2
+
+2 Ipad 1500 4
+
+2 Ipad 1500 3
+
+4 Iphone 1000 1
+
